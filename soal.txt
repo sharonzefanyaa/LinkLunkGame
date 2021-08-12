@@ -1,0 +1,15 @@
+int data type is used to define a number.#1
+%d is char data type's format specifier.#2
+double data type use %f as its format specifier.#2
+To define a string, we use char data type.#1
+stdio stands for "standard input output".#1
+'110' equals to 7 in binary number system.#2
+'1101' equals to 13 in binary numbers.#1
+The ASCII number for 'A' is greater than 'a'.#2
+To end a statement we use a colon symbol (:).#2
+Pseudocode is a way to explain how a computer program should work without having to write the code.#1
+We can make our own library in C.#1
+C is a high level language.#2
+To loop a code, we can use for loop, while loop, or do while loop.#1
+If you forget to put a semicolon symbol (;) after a statement, you will get runtime error.#2
+'Pointer' is used to store a value.#2
